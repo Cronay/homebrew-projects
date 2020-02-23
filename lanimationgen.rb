@@ -1,4 +1,4 @@
-class LAnimationGen < Formula
+class Lanimationgen < Formula
   desc "Generates Swift code for Lottie Animations"
   homepage "https://github.com/Cronay/LAnimationGen"
   head "https://github.com/Cronay/LAnimationGen.git"
