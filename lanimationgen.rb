@@ -8,7 +8,7 @@ class Lanimationgen < Formula
   # depends_on :xcode => ["11", :build]
 
   def install
-    system "make" "install"
+    system "make", "install"
   end
 
   test do
